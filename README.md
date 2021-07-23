@@ -1,6 +1,4 @@
-# Hello!
-
-👋 I am Nikhil 
+# Hello 👋   I am Nikhil!
 
 🌽 I write software for [Granular](https://granular.ag) in the Midwest
 
