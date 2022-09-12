@@ -1,4 +1,4 @@
-# Hello 👋   I am Nikhil!
+# Hello 👋   I am [Nikhil](https://nikhil.io)!
 
 🌽 I write [software for farmers](https://granular.ag) in the Midwest
 
